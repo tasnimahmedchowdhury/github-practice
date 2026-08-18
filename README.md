@@ -9,3 +9,15 @@ This repository is where I am learning Git and GitHub.
 - Practice commits
 - Learn GitHub workflows
 - Build good development habits
+
+
+## Commands Learned
+
+- git init
+- git status
+- git add
+- git diff
+- git commit
+- git log
+- git remote
+- git push
