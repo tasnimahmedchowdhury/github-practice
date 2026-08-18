@@ -25,3 +25,8 @@ This repository is where I am learning Git and GitHub.
 ## Remote Practice
 
 This section was added directly from GitHub.
+
+
+## Remote Practice
+
+This section was added directly from GitHub.
