@@ -1,37 +1,28 @@
-# GitHub Practice
+﻿# GitHub Practice
 
-This repository is where I am learning Git and GitHub.
+A hands-on repository for practicing Git and GitHub workflows, version control, and repository management.
 
-## Goals
+## Purpose
 
-- Learn Git fundamentals
-- Understand version control
-- Practice commits
-- Learn GitHub workflows
-- Build good development habits
+This repository documents my practical Git and GitHub learning through structured exercises and real repository workflows.
 
+## Skills Practiced
 
-## Commands Learned
+- Inspecting repository state and file changes
+- Working with the staging area
+- Creating clear and meaningful commits
+- Synchronizing local and remote repositories
+- Creating, switching, merging, and cleaning up branches
+- Reviewing staged and unstaged changes
+- Restoring unintended file changes
+- Renaming and removing tracked files
+- Maintaining clean repository documentation
 
-- git init
-- git status
-- git add
-- git diff
-- git commit
-- git log
-- git remote
-- git push
+## Documentation
 
-## Remote Practice
+- [Learning Log](LEARNING_LOG.md) — dated record of hands-on practice and key takeaways
+- [Git Reference](GIT_REFERENCE.md) — concise reference for commands and concepts practiced
 
-This section was added directly from GitHub.
+## Current Focus
 
-Practicing Git workflow and branches.
-
-## Branching Practice
-
-Practicing feature branches, commits, and merges as part of my Git and GitHub workflow.
-
-## Learning Log
-
-Detailed practice sessions and progress are documented in [LEARNING_LOG.md](LEARNING_LOG.md).
+Building a strong foundation in Git and GitHub before progressing to pull requests, merge conflicts, `.gitignore`, and additional collaboration workflows.
