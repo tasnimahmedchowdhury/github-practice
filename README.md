@@ -31,3 +31,7 @@ Practicing Git workflow and branches.
 ## Branching Practice
 
 Practicing feature branches, commits, and merges as part of my Git and GitHub workflow.
+
+## Learning Log
+
+Detailed practice sessions and progress are documented in [LEARNING_LOG.md](LEARNING_LOG.md).
