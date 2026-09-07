@@ -27,3 +27,7 @@ This repository is where I am learning Git and GitHub.
 This section was added directly from GitHub.
 
 Practicing Git workflow and branches.
+
+## Branching Practice
+
+Practicing feature branches, commits, and merges as part of my Git and GitHub workflow.
